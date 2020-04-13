@@ -10,10 +10,12 @@ Compilation:
 ---------------------
 
 On Windows: g++ library_manager.cpp -o library_manager.exe -std=c++14
+
 On Linux:   g++ library_manager.cpp -o library_manager -std=c++14
 
 
 Executing:
 ---------------------
 On Windows: library_manager.exe
+
 On Linux:   ./library_manager
